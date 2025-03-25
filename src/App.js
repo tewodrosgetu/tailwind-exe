@@ -6,7 +6,7 @@ function App() {
       <h1 className="capitalize text-3xl justify-self-center font-thin text-white pt-10">
         our <span className="font-bold">team</span>
       </h1>
-      <div className="mt-28 grid lg:grid-cols-4 gap-10 ">
+      <div className="mt-28 grid lg:grid-cols-4 sm:grid-cols-2 gap-10 ">
         <div className=" content-center justify-items-center space-y-3 ">
           <img
             src="https://tailone.tailwindtemplate.net/src/img/dummy/avatar3.png"
