@@ -48,7 +48,7 @@ function App() {
           <SocialMedia />
         </div>
       </div>
-      <p className="text-white  absolute bottom-0 pb-4  place-content-center  flex place-self-center  w-full  ">
+      <p className="text-black  absolute bottom-0 pb-4  place-content-center  flex place-self-center  w-full  ">
         This is a Team Section by ari_budin.
         <span className="underline"> Component details</span>
       </p>
