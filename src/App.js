@@ -2,7 +2,7 @@ import SocialMedia from "./SocialMedia";
 
 function App() {
   return (
-    <div className="bg-slate-800  py-4 static">
+    <div className="  py-4 static">
       <h1 className="capitalize text-3xl justify-self-center font-thin text-white pt-10">
         our <span className="font-bold">team</span>
       </h1>
@@ -48,7 +48,7 @@ function App() {
           <SocialMedia />
         </div>
       </div>
-      <p className="text-white  absolute bottom-0 pb-4  place-content-center bg-slate-800 flex place-self-center  w-full  ">
+      <p className="text-white  absolute bottom-0 pb-4  place-content-center  flex place-self-center  w-full  ">
         This is a Team Section by ari_budin.
         <span className="underline"> Component details</span>
       </p>
