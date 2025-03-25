@@ -2,7 +2,7 @@ import SocialMedia from "./SocialMedia";
 
 function App() {
   return (
-    <div className="  py-4 static">
+    <div className=" bg-slate-800  py-4 static">
       <h1 className="capitalize text-3xl justify-self-center font-thin text-white pt-10">
         our <span className="font-bold">team</span>
       </h1>
